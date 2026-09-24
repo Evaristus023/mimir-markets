@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/create-mobile-responsive-83",
+    "fix/market-card-keyboard-nav-84",
+    "fix/per-category-creator-caps-103",
+    "fix/research-domain-allowlist-91",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/create-mobile-responsive-83": "main",
+    "fix/market-card-keyboard-nav-84": "main",
+    "fix/per-category-creator-caps-103": "main",
+    "fix/research-domain-allowlist-91": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/create-mobile-responsive-83",
+    "fix/market-card-keyboard-nav-84",
+    "fix/per-category-creator-caps-103",
+    "fix/research-domain-allowlist-91",
+    "origin"
+  ]
+}
